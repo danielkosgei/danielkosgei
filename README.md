@@ -1,4 +1,7 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=danielkosgei&theme=codeSTACKr&show_icons=true&count_private=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielkosgei/danielkosgei/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielkosgei/danielkosgei/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/danielkosgei/danielkosgei/output/pacman-contribution-graph.svg">
+</picture>
 
-
-![Top Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=danielkosgei&layout=donut&theme=codeSTACKr&show_icons=true&count_private=true)
+###
