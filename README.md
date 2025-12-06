@@ -1,10 +1,16 @@
 <div align="center">
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=danielkosgei&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FFB86C&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  
+</p>
 
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=danielkosgei&theme=codeSTACKr&show_icons=true&count_private=true)
+---
 
-  ![Top Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=danielkosgei&layout=donut&theme=codeSTACKr&show_icons=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danielkosgei&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" alt="Contribution Graph" />
+</p>
 
-</div>
+---
 
 ###
 
